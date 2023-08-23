@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirsten Andersen Morris</h1>
 <h3 align="center">Full-stack developer with a background in education and accessibility.</h3>
 
-- 🔭 I’m currently working on [Photo Sharing Application through the Practicum Bootcamp](https://andkirsten.github.io/se_project_aroundtheus/)
+- 🔭 I’m currently working on What to Wear React App with MongoDB/Express backend
 
 - 🌱 I’m currently learning **Node.js, React.js, and more!**
 
