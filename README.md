@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on What to Wear React App with MongoDB/Express backend
 
-- 🌱 I’m currently learning **Node.js, React.js, and more!**
+- 🌱 I’m currently learning **Google Cloud Platform, MongoDB, Express**
 
 - 💬 Ask me about **EdTech and Accessibility**
 
