@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirsten Andersen Morris</h1>
-<h3 align="center">Full-stack developer with a background in education and accessibility.</h3>
+<h3 align="center">full-stack developer | product builder | accessibility enthusiast | technical communicator</h3>
 
 - 🔭 I’m currently working on **Synthesis Workshop Website using React, TypeScript, Storybook, Keystone, GraphQL**
 
